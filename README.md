@@ -1,2 +1,3 @@
 # ownlife
-*ownlife* means solitary in newspeak(from 1984). 
+
+_ownlife_ means solitary in newspeak(from 1984).
